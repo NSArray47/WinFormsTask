@@ -18,13 +18,3 @@ C:\Users\polzar\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFo
 \\psf\Home\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
 \\psf\Home\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 \\psf\Home\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
-\\psf\Home\Documents\GitHub\WinFormsTask\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
-\\psf\Home\Documents\GitHub\WinFormsTask\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
-\\psf\Home\Documents\GitHub\WinFormsTask\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
-\\psf\Home\Documents\GitHub\WinFormsTask\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
-\\psf\Home\Documents\GitHub\WinFormsTask\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
-\\psf\Home\Documents\GitHub\WinFormsTask\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
-\\psf\Home\Documents\GitHub\WinFormsTask\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
-\\psf\Home\Documents\GitHub\WinFormsTask\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
-\\psf\Home\Documents\GitHub\WinFormsTask\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
-\\psf\Home\Documents\GitHub\WinFormsTask\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb

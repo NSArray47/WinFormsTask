@@ -58,7 +58,7 @@
             this.colorToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(800, 25);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -69,34 +69,34 @@
             this.openToolStripMenuItem,
             this.onFileSaved});
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
-            this.fileToolStripMenuItem.Size = new System.Drawing.Size(37, 20);
+            this.fileToolStripMenuItem.Size = new System.Drawing.Size(39, 21);
             this.fileToolStripMenuItem.Text = "File";
             // 
             // newToolStripMenuItem
             // 
             this.newToolStripMenuItem.Name = "newToolStripMenuItem";
-            this.newToolStripMenuItem.Size = new System.Drawing.Size(103, 22);
+            this.newToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.newToolStripMenuItem.Text = "New";
             this.newToolStripMenuItem.Click += new System.EventHandler(this.newToolStripMenuItem_Click);
             // 
             // openToolStripMenuItem
             // 
             this.openToolStripMenuItem.Name = "openToolStripMenuItem";
-            this.openToolStripMenuItem.Size = new System.Drawing.Size(103, 22);
+            this.openToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.openToolStripMenuItem.Text = "Open";
             this.openToolStripMenuItem.Click += new System.EventHandler(this.openToolStripMenuItem_Click);
             // 
             // onFileSaved
             // 
             this.onFileSaved.Name = "onFileSaved";
-            this.onFileSaved.Size = new System.Drawing.Size(103, 22);
+            this.onFileSaved.Size = new System.Drawing.Size(180, 22);
             this.onFileSaved.Text = "Save";
             this.onFileSaved.Click += new System.EventHandler(this.onFileSaved_Click);
             // 
             // shapesToolStripMenuItem
             // 
             this.shapesToolStripMenuItem.Name = "shapesToolStripMenuItem";
-            this.shapesToolStripMenuItem.Size = new System.Drawing.Size(56, 20);
+            this.shapesToolStripMenuItem.Size = new System.Drawing.Size(62, 21);
             this.shapesToolStripMenuItem.Text = "Shapes";
             // 
             // colorToolStripMenuItem
@@ -108,42 +108,42 @@
             this.greenToolStripMenuItem,
             this.blackToolStripMenuItem});
             this.colorToolStripMenuItem.Name = "colorToolStripMenuItem";
-            this.colorToolStripMenuItem.Size = new System.Drawing.Size(48, 20);
+            this.colorToolStripMenuItem.Size = new System.Drawing.Size(52, 21);
             this.colorToolStripMenuItem.Text = "Color";
             this.colorToolStripMenuItem.Click += new System.EventHandler(this.colorToolStripMenuItem_Click);
             // 
             // yellowToolStripMenuItem
             // 
             this.yellowToolStripMenuItem.Name = "yellowToolStripMenuItem";
-            this.yellowToolStripMenuItem.Size = new System.Drawing.Size(109, 22);
+            this.yellowToolStripMenuItem.Size = new System.Drawing.Size(112, 22);
             this.yellowToolStripMenuItem.Text = "Yellow";
             this.yellowToolStripMenuItem.Click += new System.EventHandler(this.yellowToolStripMenuItem_Click);
             // 
             // whiteToolStripMenuItem
             // 
             this.whiteToolStripMenuItem.Name = "whiteToolStripMenuItem";
-            this.whiteToolStripMenuItem.Size = new System.Drawing.Size(109, 22);
+            this.whiteToolStripMenuItem.Size = new System.Drawing.Size(112, 22);
             this.whiteToolStripMenuItem.Text = "Blue";
             this.whiteToolStripMenuItem.Click += new System.EventHandler(this.whiteToolStripMenuItem_Click);
             // 
             // redToolStripMenuItem
             // 
             this.redToolStripMenuItem.Name = "redToolStripMenuItem";
-            this.redToolStripMenuItem.Size = new System.Drawing.Size(109, 22);
+            this.redToolStripMenuItem.Size = new System.Drawing.Size(112, 22);
             this.redToolStripMenuItem.Text = "Red";
             this.redToolStripMenuItem.Click += new System.EventHandler(this.redToolStripMenuItem_Click);
             // 
             // greenToolStripMenuItem
             // 
             this.greenToolStripMenuItem.Name = "greenToolStripMenuItem";
-            this.greenToolStripMenuItem.Size = new System.Drawing.Size(109, 22);
+            this.greenToolStripMenuItem.Size = new System.Drawing.Size(112, 22);
             this.greenToolStripMenuItem.Text = "Green";
             this.greenToolStripMenuItem.Click += new System.EventHandler(this.greenToolStripMenuItem_Click);
             // 
             // blackToolStripMenuItem
             // 
             this.blackToolStripMenuItem.Name = "blackToolStripMenuItem";
-            this.blackToolStripMenuItem.Size = new System.Drawing.Size(109, 22);
+            this.blackToolStripMenuItem.Size = new System.Drawing.Size(112, 22);
             this.blackToolStripMenuItem.Text = "Black";
             this.blackToolStripMenuItem.Click += new System.EventHandler(this.blackToolStripMenuItem_Click);
             // 
@@ -152,17 +152,17 @@
             this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.shapesToolStripMenuItem1});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(112, 26);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(119, 26);
             // 
             // shapesToolStripMenuItem1
             // 
             this.shapesToolStripMenuItem1.Name = "shapesToolStripMenuItem1";
-            this.shapesToolStripMenuItem1.Size = new System.Drawing.Size(111, 22);
+            this.shapesToolStripMenuItem1.Size = new System.Drawing.Size(118, 22);
             this.shapesToolStripMenuItem1.Text = "Shapes";
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.Color.White;
+            this.panel1.BackColor = System.Drawing.SystemColors.HighlightText;
             this.panel1.Location = new System.Drawing.Point(12, 28);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(776, 410);
